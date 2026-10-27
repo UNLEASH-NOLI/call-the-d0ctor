@@ -34,10 +34,10 @@ TEXT
 ㅤ<br>
 ㅤ<br>
 ㅤㅤ<img src="https://files.catbox.moe/kj0rfe.png" width="~" height="50" alt="VENOMSHANK HEADER"><br>
-ㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ ㅤ $\color{#EAFDE9}{\textsf{18ㅤ}}$
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ ㅤ $\color{#EAFDE9}{\textsf{18ㅤ}}$
 $\color{#E1F9BA}{\textsf{any}}$
 $\color{#D1F846}{\textsf{pronounsㅤ}}$
 $\color{#56723A}{\textsf{any}}$
-$\color{#284A41}{\textsf{terms}}$ㅤㅤㅤㅤㅤ ㅤ ㅤ <br>
+$\color{#284A41}{\textsf{terms}}$ㅤㅤㅤㅤㅤㅤㅤ ㅤ ㅤ <br>
 ㅤ<br>
 ㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ $\color{#E1F9BA}{\textsf{«}}$ ㅤ[atabook](https://.)ㅤ $\color{#E1F9BA}{\textsf{‧}}$ ㅤ[prns.page](https://en.pronouns.page/@lovifyy)ㅤ $\color{#E1F9BA}{\textsf{»}}$<br>
