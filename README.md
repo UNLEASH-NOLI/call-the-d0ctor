@@ -20,7 +20,7 @@
         ㅤ<br>
         <img src="https://files.catbox.moe/rrielh.png" width="300" height="~" alt="VENOM n SWORD"><br>
         ㅤ<br>
-        $\color{#E1F9BA}{\textsf{ㅤfriendsㅤ}}$
+        $\color{#E1F9BA}{\textsf{friends}}$<br>
         [darkheart](https://github.com/UNLEASH-NOLI)ㅤ
         [subspace](https://github.com/GET-H4XX3D)ㅤ
         [sword](https://github.com/RUST-010)ㅤ
