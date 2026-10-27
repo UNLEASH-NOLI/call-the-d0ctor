@@ -30,5 +30,5 @@ TEXT
 
 </!-->
 ㅤ<br>
-ㅤ<img src="https://files.catbox.moe/kj0rfe.png" width="~" height="50" alt="VENOMSHANK HEADER"><br>
+ㅤㅤ<img src="https://files.catbox.moe/kj0rfe.png" width="~" height="50" alt="VENOMSHANK HEADER"><br>
 ㅤㅤ $\color{#D1F846}{\textsf{sampleㅤtext}}$
