@@ -18,7 +18,7 @@
         ㅤ<br>
         <img src="https://api.visitorbadge.io/api/visitors?path=call-the-d0ctor&label=crows&labelColor=000000&countColor=000000&style=flat"><br>
         ㅤ<br>
-        <img src="https://files.catbox.moe/rrielh.png" width="350" height="~" alt="VENOM n SWORD"><br>
+        <img src="https://files.catbox.moe/rrielh.png" width="300" height="~" alt="VENOM n SWORD"><br>
         ㅤ<br>
         [atabook](https://.)ㅤ[pronouns.page](https://en.pronouns.page/@lovifyy)<br>
         ㅤ<br>
