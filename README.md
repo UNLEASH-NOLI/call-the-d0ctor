@@ -40,7 +40,7 @@ $\color{#284A41}{\textsf{terms}}$<br>
 ㅤ<br>
 ㅤㅤ<img src="https://files.catbox.moe/jgqv0i.png" width="~" height="110" alt="BANNER"><br>
 ㅤ<br>
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ $\color{#E1F9BA}{\textsf{«}}$ ㅤ[atabook](https://.)ㅤ $\color{#E1F9BA}{\textsf{‧}}$ ㅤ[prns.page](https://en.pronouns.page/@lovifyy)ㅤ $\color{#E1F9BA}{\textsf{»}}$<br>
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ $\color{#56723A}{\textsf{«}}$ ㅤ[atabook](https://.)ㅤ $\color{#56723A}{\textsf{‧}}$ ㅤ[prns.page](https://en.pronouns.page/@lovifyy)ㅤ $\color{#56723A}{\textsf{»}}$<br>
 ㅤ<br>
 ㅤ<br>
 ㅤ<br>
