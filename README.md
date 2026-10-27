@@ -34,7 +34,7 @@ TEXT
 ㅤ<br>
 ㅤ<br>
 ㅤㅤ<img src="https://files.catbox.moe/kj0rfe.png" width="~" height="50" alt="VENOMSHANK HEADER"><br>
-ㅤㅤㅤㅤㅤㅤ ㅤ ㅤ $\color{#EAFDE9}{\textsf{18ㅤ}}$
+ㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ ㅤ $\color{#EAFDE9}{\textsf{18ㅤ}}$
 $\color{#E1F9BA}{\textsf{any}}$
 $\color{#D1F846}{\textsf{pronounsㅤ}}$
 $\color{#56723A}{\textsf{any}}$
