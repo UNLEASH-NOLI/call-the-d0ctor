@@ -20,6 +20,16 @@
         ㅤ<br>
         <img src="https://files.catbox.moe/rrielh.png" width="300" height="~" alt="VENOM n SWORD"><br>
         ㅤ<br>
+        $\color{#E1F9BA}{\textsf{ㅤfriends}}$
+        [darkheart](https://github.com/UNLEASH-NOLI)
+        [subspace](https://github.com/GET-H4XX3D)
+        [sword](https://github.com/RUST-010)
+        [vinestaff](https://github.com/VlSCARTE)ㅤ<br>
+        $\color{#D1F846}{\textsf{⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯}}$<br>
+        $\color{#56723A}{\textsf{layout}}$
+        $\color{#284A41}{\textsf{by}}$
+        [@UNLEASH-NOLI](https://github.com/UNLEASH-NOLI)<br>
+        ㅤ<br>
       </th>
     </table>
 <!---
