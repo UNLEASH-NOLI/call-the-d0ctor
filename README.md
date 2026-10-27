@@ -39,4 +39,4 @@ $\color{#E1F9BA}{\textsf{any}}$
 $\color{#D1F846}{\textsf{pronounsㅤ}}$
 $\color{#56723A}{\textsf{any}}$
 $\color{#284A41}{\textsf{terms}}$ㅤㅤㅤㅤㅤㅤㅤ ㅤ ㅤ <br>
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ $\color{#E1F9BA}{\textsf{«}}$ ㅤ[atabook](https://.)ㅤ $\color{#E1F9BA}{\textsf{‧}}$ ㅤ[prns.page](https://en.pronouns.page/@lovifyy)ㅤ $\color{#E1F9BA}{\textsf{»}}$<br>
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ $\color{#E1F9BA}{\textsf{«}}$ ㅤ[atabook](https://.)ㅤ $\color{#E1F9BA}{\textsf{‧}}$ ㅤ[prns.page](https://en.pronouns.page/@lovifyy)ㅤ $\color{#E1F9BA}{\textsf{»}}$<br>
