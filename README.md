@@ -43,6 +43,7 @@ TEXT
 ㅤ<br>
 ㅤ<br>
 ㅤ<br>
+ㅤ<br>
 ㅤㅤ<img src="https://files.catbox.moe/kj0rfe.png" width="~" height="50" alt="VENOMSHANK HEADER"><br>
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤ $\color{#EAFDE9}{\textsf{18ㅤ}}$
 $\color{#E1F9BA}{\textsf{any}}$
@@ -53,6 +54,7 @@ $\color{#284A41}{\textsf{terms}}$<br>
 ㅤㅤ<img src="https://files.catbox.moe/jgqv0i.png" width="~" height="110" alt="BANNER"><br>
 ㅤ<br>
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ $\color{#56723A}{\textsf{«}}$ ㅤ[atabook](https://.)ㅤ $\color{#56723A}{\textsf{‧}}$ ㅤ[prns.page](https://en.pronouns.page/@lovifyy)ㅤ $\color{#56723A}{\textsf{»}}$<br>
+ㅤ<br>
 ㅤ<br>
 ㅤ<br>
 ㅤ<br>
