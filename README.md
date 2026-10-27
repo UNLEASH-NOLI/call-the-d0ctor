@@ -13,8 +13,14 @@
 </!-->
 
 <p align="left">
-<img src="https://files.catbox.moe/rrielh.png" width="350" height="~" alt="VENOM n SWORD"></p>
-<img src="https://files.catbox.moe/kj0rfe.png" width="~" height="50" alt="VENOMSHANK HEADER"><br>
+<img src="https://files.catbox.moe/rrielh.png" width="350" height="~" alt="VENOM n SWORD">
+ㅤ<img src="https://files.catbox.moe/kj0rfe.png" width="~" height="50" alt="VENOMSHANK HEADER"><br>
+
+ㅤㅤ[<img src="https://files.catbox.moe/y6iquh.png" width="~" height="30" alt="BYI & DNI">](https://pronouns.cc/@sally-face)ㅤ
+[<img src="https://files.catbox.moe/eg83q7.png" width="~" height="30" alt="CARRD">](https://necro-guitar.carrd.co)ㅤ
+[<img src="https://files.catbox.moe/fhypj8.png" width="~" height="30" alt="ATABOOK">](https://killer-sans.atabook.org)ㅤ
+[<img src="https://files.catbox.moe/snhxuo.png" width="~" height="30" alt="STRAWPAGE">](https://comic-sans-ms.straw.page)<br>
+ㅤ<br>
 </p>
 
 $\color{#D1F846}{\textsf{sampleㅤtext}}$
