@@ -31,4 +31,4 @@ TEXT
 </!-->
 ㅤ<br>
 ㅤ<img src="https://files.catbox.moe/kj0rfe.png" width="~" height="50" alt="VENOMSHANK HEADER"><br>
-ㅤ $\color{#D1F846}{\textsf{sampleㅤtext}}$
+ㅤㅤ $\color{#D1F846}{\textsf{sampleㅤtext}}$
