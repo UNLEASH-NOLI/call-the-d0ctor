@@ -44,6 +44,7 @@ TEXT
 ㅤ<br>
 ㅤ<br>
 ㅤ<br>
+ㅤ<br>
 ㅤㅤ<img src="https://files.catbox.moe/kj0rfe.png" width="~" height="50" alt="VENOMSHANK HEADER"><br>
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤ $\color{#EAFDE9}{\textsf{18ㅤ}}$
 $\color{#E1F9BA}{\textsf{any}}$
