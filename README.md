@@ -9,7 +9,7 @@
 
     * please STAR my repository if you take segments of his code or take any inspiration from it.
     
-    * other than that, have fun and a good rest of your whatever ;^)
+    * other than that, have fun and a good rest of your whatever ;^) 
 </!-->
 
 ㅤ<table border="0" align="left">
